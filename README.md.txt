@@ -18,10 +18,10 @@ This TodoList is a  online version of the list  was built with [MongoDB](https:/
 
 ## 🎮 Screenshots
 
-<img src="Screenshots/s1.JPG" alt="Screenshot 1" width="75%" align="center" />
-<img src="Screenshots/s2.JPG" alt="Screenshot 2" width="75%" align="center" />
-<img src="Screenshots/s3.JPG" alt="Screenshot 3" width="75%" align="center" />
-<img src="Screenshots/s4.JPG" alt="Screenshot 3" width="75%" align="center" />
+<img src="Screenshots/s1.PNG" alt="Screenshot 1" width="75%" align="center" />
+<img src="Screenshots/s2.PNG" alt="Screenshot 2" width="75%" align="center" />
+<img src="Screenshots/s3.PNG" alt="Screenshot 3" width="75%" align="center" />
+<img src="Screenshots/s4.PNG" alt="Screenshot 3" width="75%" align="center" />
 
 
 
